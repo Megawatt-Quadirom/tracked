@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Megawatt" APIVersion="14" Name="Tracked" Description="Used for tracking resources">
+    <Script Name="Tracked.lua"/>
+    <Form Name="Tracked.xml"/>
+</Addon>
